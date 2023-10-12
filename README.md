@@ -24,3 +24,6 @@ This repository is a guide to Node.js cluster programming. It provides an overvi
 
   ### 👉 Examples
   Check out the examples folder for sample code that demonstrates how to use Node.js clusters.
+
+  ### 👉 Conclusion
+  Node.js cluster programming is a powerful tool for improving the performance of your applications. By taking advantage of multi-core systems, you can handle more requests and reduce the response time of your application.
