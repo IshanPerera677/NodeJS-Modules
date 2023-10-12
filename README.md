@@ -21,3 +21,6 @@ This repository is a guide to Node.js cluster programming. It provides an overvi
 
   ### 👉 How to Use Node.js Clusters
   To use Node.js clusters, you need to create a master process that manages the child processes. The master process listens for incoming connections and distributes them to the child processes. The child processes handle      the requests and send the response back to the master process.
+
+  ### 👉 Examples
+  Check out the examples folder for sample code that demonstrates how to use Node.js clusters.
